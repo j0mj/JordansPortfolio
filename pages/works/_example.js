@@ -17,7 +17,7 @@ const Work = () => {
                 <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Website</Meta>
-                <Link href='https://www.wediditauto.com'>
+                <Link passHref='https://www.wediditauto.com'>
                 https://www.wediditauto.com <ExternalLinkIcon mx="2px" />    
                 </Link>
                 </ListItem>
@@ -37,3 +37,4 @@ const Work = () => {
 }
 
 export default Work
+export { getServerSideProps } from '../../components/chakra'
