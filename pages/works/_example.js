@@ -1,6 +1,6 @@
 import { Container, Badge, Link, List, ListItem } from '@chakra-ui/react'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
-import { Title, WorkImage, Meta } from '../../components/layouts/work'
+import { Title, Meta } from '../../components/layouts/work'
 import P from '../paragraph'
 import Layout from '../../components/layouts/article'
 
@@ -35,3 +35,5 @@ const Work = () => {
         </Layout>
     )
 }
+
+export default Work
