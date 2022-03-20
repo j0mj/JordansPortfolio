@@ -1,0 +1,11 @@
+Model Information:
+* title:	VR Thinker
+* source:	https://sketchfab.com/3d-models/vr-thinker-03b49569a54f4ce7ae1219b70f2bd255
+* author:	aronegal (https://sketchfab.com/aronegal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VR Thinker" (https://sketchfab.com/3d-models/vr-thinker-03b49569a54f4ce7ae1219b70f2bd255) by aronegal (https://sketchfab.com/aronegal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
